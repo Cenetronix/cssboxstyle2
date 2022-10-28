@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    background-color: rosybrown;
+}
+
+.header{
+    margin:5%;
+    width: 90%;
+    height: 10%;
+    font-family: sans-serif;
+    background-color: aquamarine;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.aside{
+    margin:5%;
+    width: 20%;
+    height:40%;
+    font-family: sans-serif;
+    background-color: rgb(62, 173, 136);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float: left;
+
+}
+
+.parent{
+    margin:5%;
+    width: 60%;
+    height:40%;
+    font-family: sans-serif;
+    background-color: palevioletred;
+    color: white;
+    display: flex;
+    align-items:flex-end ;
+    justify-content: center;
+    float: left;
+
+}
+
+.box{
+    width: 15%;
+    height: 15%;
+    background-color: gray;
+    color: white;
+    display: flex;
+    align-items:center;
+    justify-content: space-evenly;
+    
+}
+
+.footer{
+    margin:5%;
+    width: 90%;
+    height: 10%;
+    font-family: sans-serif;
+    background-color: aquamarine;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
